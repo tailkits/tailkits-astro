@@ -1,4 +1,4 @@
-![TailKits Astro Cover](./public/tailkits-astro-cover.png)
+![TailKits Astro Theme Cover](./public/tailkits-astro-cover.png)
 
 # TailKits Astro
 
