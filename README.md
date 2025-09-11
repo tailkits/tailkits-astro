@@ -1,6 +1,6 @@
-![TailKits Astro Theme Cover](./public/tailkits-astro-cover.png)
+![Tailkits Astro Theme Cover](./public/tailkits-astro-cover.png)
 
-# TailKits Astro
+# Tailkits Astro
 
 A modern, beautiful Astro starter theme powered by Tailwind CSS. Perfect for building fast, responsive websites with exceptional performance and developer experience.
 
@@ -12,6 +12,9 @@ A modern, beautiful Astro starter theme powered by Tailwind CSS. Perfect for bui
 - **🔧 Developer Friendly**: TypeScript support, modern tooling, and clean code structure
 - **🚀 SEO Optimized**: Meta tags, semantic HTML, and performance-focused
 - **🎯 Accessible**: WCAG compliant with proper focus states and semantic markup
+
+
+> **💡 Want more components?** Check out 200+ premium landing page components and sections at [TailKits UI](https://tailkits.com/ui/) - perfectly matching this template's design system and ready to copy & paste into your Astro project.
 
 ## 🚀 Quick Start
 
@@ -89,6 +92,8 @@ A modern, beautiful Astro starter theme powered by Tailwind CSS. Perfect for bui
 ```
 
 ## 🎨 Customization
+
+> **⚠️ Production Note**: This template includes an optional “Made with Tailkits UI” badge in src/pages/index.astro for the demo. You may remove it for production
 
 ### Components
 
@@ -186,5 +191,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Typography by [Inter](https://rsms.me/inter/)
 
 ---
-
-**Happy coding!** 🚀
