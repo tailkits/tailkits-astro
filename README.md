@@ -191,3 +191,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Typography by [Inter](https://rsms.me/inter/)
 
 ---
+
+**Happy coding!** 🚀
