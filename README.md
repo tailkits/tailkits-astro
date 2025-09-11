@@ -189,7 +189,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Styled with [Tailwind CSS](https://tailwindcss.com)
 - Icons from [Heroicons](https://heroicons.com)
 - Typography by [Inter](https://rsms.me/inter/)
-
----
-
-**Happy coding!** 🚀
